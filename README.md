@@ -17,8 +17,6 @@ The game also features saving and loading funtionality so the user can save thei
 
 To play: 
 
-Make sure you have installed:
-
 * Install python 
 
 
@@ -26,3 +24,9 @@ Make sure you have installed:
   pip install pyenchant
   ```
 
+
+* Execute controller.py
+
+```
+  python controller.py
+```
