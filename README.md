@@ -27,6 +27,6 @@ To play:
 
 * Execute controller.py
 
-```
-  python controller.py
-```
+  ```
+    python controller.py
+  ```
